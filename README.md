@@ -1,5 +1,5 @@
  ## Hi there, I'm Berkay 👋 
-I'm a Web Developer from Turkey.</br> 
+I'm a Full-Stack Developer from Turkey.</br> 
 I love coding so much and my purpose is always to improve myself so I'm developing my Nest.js, Node.js, React, etc. knowledge
  
 ### I'm interested in these languages, frameworks and databases
